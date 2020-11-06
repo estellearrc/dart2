@@ -1,5 +1,5 @@
-V-REP_PRO_EDU_V3_6_2_Ubuntu18_04
-scenes
+V-REP_PRO_EDU_V3_6_2_Ubuntu18_04/*
+scenes/*
 *.pyc
 
 # Byte-compiled / optimized / DLL files
